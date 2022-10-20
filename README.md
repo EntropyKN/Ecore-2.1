@@ -1,5 +1,5 @@
 # Ecore-2.1
-2D Serius Game Editor and Player whith moodle LTI interface
+2D Serious Game Editor and Player with moodle LTI interface
 
 #### INSTALLATION:
 - import the mysql DB using the file else.sql
