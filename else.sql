@@ -112,25 +112,9 @@ CREATE TABLE `family` (
 --
 -- Dump dei dati per la tabella `family`
 --
-
 INSERT INTO `family` (`family`, `secret`, `title`, `id`) VALUES
 ('demotest', '09i1o22gx9t8hgwxjxcynvp3hjdvah4t', 'Test funzionamento', 1),
-('entropy', '3gpahyo442ee9881o465h9nnj3yk827c', 'Entropy Knowledge Network', 10),
-('unigo', '09i1o22gx9t8hgwxjxcynvp3hjdvahss', 'University of Nowhere', 0),
-('unicy', 'aa01d7jz882ucfgqi44msaddoqfpgu3z', 'University of Cyprus', 6),
-('polimi', '0qm5vee72mnkdk5xll0xz3dd6p1reayj', 'Politecnico di Milano', 5),
-('tusciamoodle', '11b9q67fo1h6qllqbmguwds9mlobzn8z', 'Università della Tuscia - Moodle', 14),
-('mmu', 'sqpxvrhgfvxennk9aey978lypo1flupv', 'Manchester Metropolitan University', 2),
-('uvt', 'ggx6vimfkad3bjf5glgwv5d98aean9w3', 'West University of Timisoara', 3),
-('uca', 'gl7h3t9ticidaeqwp18p2w6084z99kwe', 'Universidad De Cadiz', 7),
-('ipp', '601o6fcu0540xzi8a3rs3xog9bx0b1oz', 'Instituto politecnico Do Porto', 8),
-('amu', 'q4cmyutq0kobyb6kl89w5s35ut1b6idp', 'Uniwersytet Im. Adama Mickiewicza w Poznaniu', 9),
-('isp_demo', '09i1o22gx9t8hgwxjxcynvp3hjdvahst', 'Demo Platform ELSE ISP', 11),
-('ibu', '12i1o2d5x9t8hgwxjxcynvp3hjdvah4s', 'International Balkan University', 12),
-('umfst', '61m4p6d5x9t8hgwxjxcynvp3hjdvah8b', 'University of Târgu Mures', 13),
-('tuscia_test', '40n2p6d5x9t8hgwxjxcynvp3hjdvah6d', 'Università della Tuscia - Test', 15),
-('tuscia_progetti', '51s4d5x9t8hgwxjxcynvp3hjdvah6w1', 'Università della Tuscia - Progetti', 16),
-('tuscia_graziano', '09i1o22gx9t8hgwxjxcynvp3hjdvaabc', 'Università degli Studi della Tuscia - Prof. Graziano', 17);
+('entropy', '3gpahyo442ee9881o465h9nnj3yk827c', 'Entropy Knowledge Network', 10);
 
 -- --------------------------------------------------------
 
