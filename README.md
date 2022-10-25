@@ -10,9 +10,8 @@
 
 - Upload the files
 
-- The following directories have to be WRITABLE (chmode 777):
-	/data/audio/
-	/data/attachments/
+- The following directories have to be WRITABLE (chmode 777): 
+/data/audio/ AND /data/attachments/
 
 #### FIRST TEST:	
 to test the platform log in as:
